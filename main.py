@@ -1,5 +1,4 @@
-from src.stat_engine import StatEngine
-from src.monte_carlo import run_experiments
+from src import StatEngine, run_experiments
 
 
 def main():
